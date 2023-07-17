@@ -5,7 +5,7 @@ This is a super basic app you can add to your Steam games library so another PC 
 
 ![Screenshot:](https://github.com/GreenDude120/SteamLink-PC2PC/blob/master/IbOM.png)
 
-When using steam link from a mobile phone, you enter big picture mode and from there you can choose to Minimize Big Picture and gain access to the desktop to use it as a remote computer. But when you want to stream from PC to PC such as a laptop to your gaming desktop, you are obligated to launch a game. When you close that game to access desktop, the stream is ended. So I made this very simple app that you can stream instead of a game so you can minimize to the desktop or launch other programs without breaking the link. This way you can use Steam from PC to PC as a remote desktop. I prefer Steam Link over Chrome Remote Desktop which is why I made this app.
+When using steam link from a mobile phone, you enter big picture mode and from there you can choose to Minimize Big Picture and gain access to the desktop to use it as a remote computer. But when you want to stream from PC to PC such as a laptop to your gaming desktop, you are obligated to launch a game. When you close that game to access desktop, the stream is ended. So I made this very simple app that you can stream instead of a game so you can minimize to the desktop or launch other programs without breaking the link. This way you can use Steam Link (Steam Remote Play) from PC to PC as a remote desktop. I prefer Steam Link over Chrome Remote Desktop which is why I made this app.
 
 ## Instructions:
 
