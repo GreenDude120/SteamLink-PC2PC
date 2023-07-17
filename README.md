@@ -14,6 +14,7 @@ When using steam link from a mobile phone, you enter big picture mode and from t
 1) [Download](https://github.com/GreenDude120/SteamLink-PC2PC/releases/tag/release) (or compile) the SteamLink PC2PC executable and place it anywhere on your main desktop/gaming pc.
 
 2) Open Steam and go the Games tab and select Add Non-Steam Games to My Library. Find and select the SteamLink PC2PC exe to add it to your library.
+
 ![Screenshot:](https://github.com/GreenDude120/SteamLink-PC2PC/blob/master/Z2Av.png)
 
 3) On the other desktop/laptop, open Steam and login to the same Steam account. You will see SteamLink PC2PC in your games library. Click "Stream".
