@@ -20,13 +20,15 @@ When using steam link from a mobile phone, you enter big picture mode and from t
 ![Screenshot:](https://github.com/GreenDude120/SteamLink-PC2PC/blob/master/zsH8.png)
 
 3) On the other desktop/laptop, open Steam and login to the same Steam account. You will see SteamLink PC2PC in your games library. Click "Stream".
+![Screenshot:](https://github.com/GreenDude120/SteamLink-PC2PC/blob/master/r909Ypf.png)
 
-![Screenshot:](https://github.com/GreenDude120/SteamLink-PC2PC/blob/master/GbB0yWS.png)
 ![Screenshot:](https://github.com/GreenDude120/SteamLink-PC2PC/blob/master/UhAurOg.png)
 
-5) When the Steam Link opens to the SteamLink PC2PC app; click Minimize to Desktop to begin using the computer as a remote desktop.
+4) When the Steam Link opens to the SteamLink PC2PC app; click Minimize to Desktop to begin using the computer as a remote desktop.
 
-![Screenshot:](https://github.com/GreenDude120/SteamLink-PC2PC/blob/master/lni2.png)
+![Screenshot:](https://github.com/GreenDude120/SteamLink-PC2PC/blob/master/GbB0yWS.png)
+
+![Screenshot:](https://github.com/GreenDude120/SteamLink-PC2PC/blob/master/UhAurOg.png)
 
 Alternatively you can open the C: drive from the 'Open Folders' button or configure your own apps to launch using the customizeable buttons and setting the programs exe path in Settings. (Must run as admin to save settings to windows registry).
 
