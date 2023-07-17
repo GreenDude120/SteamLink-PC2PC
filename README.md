@@ -15,6 +15,10 @@ When using steam link from a mobile phone, you enter big picture mode and from t
 
 ![Screenshot:](https://github.com/GreenDude120/SteamLink-PC2PC/blob/master/Z2Av.png)
 
+![Screenshot:](https://github.com/GreenDude120/SteamLink-PC2PC/blob/master/14qf.png)
+
+![Screenshot:](https://github.com/GreenDude120/SteamLink-PC2PC/blob/master/zsH8.png)
+
 3) On the other desktop/laptop, open Steam and login to the same Steam account. You will see SteamLink PC2PC in your games library. Click "Stream".
 
 ![Screenshot:](https://github.com/GreenDude120/SteamLink-PC2PC/blob/master/GbB0yWS.png)
